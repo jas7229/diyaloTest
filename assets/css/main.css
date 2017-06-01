@@ -2937,7 +2937,7 @@
 		background-image: url('../../images/bannertest.png');
 		background-size: cover;
 		background-position: top;
-		background-attachment: fixed;
+		background-attachment: scroll;
 		background-repeat: no-repeat;
 		text-align: center;
 		border-top: 0.5em solid #5385c1;
